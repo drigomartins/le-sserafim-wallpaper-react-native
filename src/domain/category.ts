@@ -1,11 +1,7 @@
 export type Category =
-  | 'Doyoung'
-  | 'Haechan'
-  | 'WinWin'
-  | 'Johnny'
-  | 'Taeyong'
-  | 'Yuta'
-  | 'Jaehyun'
-  | 'Jungwoo'
-  | 'Mark'
-  | 'NCT 127';
+  | 'Sakura'
+  | 'Kim Chaewon'
+  | 'Huh Yunjin'
+  | 'Kazuha'
+  | 'Hong Eunchae'
+  | 'Le Sserafim';
